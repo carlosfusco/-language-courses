@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Language Course Designer --></label>
+    <name>Language_Course_Designer__c</name>
+    <relationshipLabel><!-- Language Courses --></relationshipLabel>
+</CustomFieldTranslation>
